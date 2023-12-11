@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+font-size: 50px;
+font-weight: bolder;
+text-align: center;
+}
+.special{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(81, 75, 75);
+}
+.copyright{
+  text-align: center;
+  font: size 15px; ;
+  
+}
